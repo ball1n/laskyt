@@ -7,7 +7,7 @@ b) Offline. Tee paikallinen offline-varasto git:llä. Varaston nimessä tulee ol
 
 - Teen ensimmäiseksi kansion komennolla
 
-    $ git init miksicat
+     $ git init miksicat
 
 Siirryn kansioon
 

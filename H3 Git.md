@@ -50,12 +50,12 @@ Ja saan tuloksen
 
 - Käyn kirjoittamassa README.md tiedostoon ja sen jälkeen suoritan komennon
 
-   $ git reset --hard
+    $ git reset --hard
  
 jolloin saan 
  
- HEAD is now at a533d65 Add README.md
- oliver@heroic:~/miksicat$ cat README.md 
- Toimiiko?
+    HEAD is now at a533d65 Add README.md
+    oliver@heroic:~/miksicat$ cat README.md 
+    Toimiiko?
  
 Eli teksti minkä lisäsin ja tiedosto palasi aikaisemmin toimineeseen vaiheeseen. Olisin toki voinut näyttää mitä lisäsin, koska nyt voi epäillä minun luotettavuuttani.  

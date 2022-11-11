@@ -68,6 +68,7 @@ Lisään README.md kansion sekä GPL 3.0 lisenssin.
 ## e) Dolly. Kloonaa edellisessä kohdassa tehty varasto itsellesi, tee muutoksia, puske ne palvelimelle, ja näytä, että ne ilmestyvät weppiliittymään.
 
 Kloonaan "carjack" varaston komennolla
+
        $ git clone git@github.com:ball1n/carjack.git
        
 Siirryn kansioon

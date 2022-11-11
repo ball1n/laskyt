@@ -1,13 +1,13 @@
 # H3 Git
-a) MarkDown. Tee tämän tehtävän raportti MarkDownina. Helpointa on tehdä raportti GitHub-varastoon, jolloin md-päätteiset tiedostot muotoillaan automaattisesti. Tyhjä rivi tekee kappalejaon, risuaita ‘#’ tekee otsikon, sisennys merkitsee koodinpätkän.
+## a) MarkDown. Tee tämän tehtävän raportti MarkDownina. Helpointa on tehdä raportti GitHub-varastoon, jolloin md-päätteiset tiedostot muotoillaan automaattisesti. Tyhjä rivi tekee kappalejaon, risuaita ‘#’ tekee otsikon, sisennys merkitsee koodinpätkän.
 
 - Aloitin tehtävän tekemällä uuden varaston nimeltä "laksyt", johon tulen jatkossa lisäämään kurssin läksyt. Varastoon lisäsin uuden markdown tiedoston.
 
-b) Offline. Tee paikallinen offline-varasto git:llä. Varaston nimessä tulee olla sana "cat" (kissa). Aiemmin tehty varasto ei siis kelpaa. Aseta itsellesi sähköpostiosoite ja nimi. Näytä varastollasi muutosten teko ja niiden katsominen lokista.
+## b) Offline. Tee paikallinen offline-varasto git:llä. Varaston nimessä tulee olla sana "cat" (kissa). Aiemmin tehty varasto ei siis kelpaa. Aseta itsellesi sähköpostiosoite ja nimi. Näytä varastollasi muutosten teko ja niiden katsominen lokista.
 
 - Teen ensimmäiseksi kansion komennolla
 
-   $ git init miksicat
+    $ git init miksicat
 
 Siirryn kansioon
 
@@ -45,3 +45,17 @@ Ja saan tuloksen
     +++ b/README.md
     @@ -0,0 +1 @@
     +Toimiiko?
+
+## c) Doh! Tee tyhmä muutos gittiin, älä tee commit:tia. Tuhoa huonot muutokset ‘git reset --hard’. Huomaa, että tässä toiminnossa ei ole peruutusnappia.
+
+- Käyn kirjoittamassa README.md tiedostoon ja sen jälkeen suoritan komennon
+
+   $ git reset --hard
+ 
+jolloin saan 
+ 
+ HEAD is now at a533d65 Add README.md
+ oliver@heroic:~/miksicat$ cat README.md 
+ Toimiiko?
+ 
+Eli teksti minkä lisäsin ja tiedosto palasi aikaisemmin toimineeseen vaiheeseen. Olisin toki voinut näyttää mitä lisäsin, koska nyt voi epäillä minun luotettavuuttani.  

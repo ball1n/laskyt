@@ -4,23 +4,23 @@ a) MarkDown. Tee tämän tehtävän raportti MarkDownina. Helpointa on tehdä ra
 
 b) Offline. Tee paikallinen offline-varasto git:llä. Varaston nimessä tulee olla sana "cat" (kissa). Aiemmin tehty varasto ei siis kelpaa. Aseta itsellesi sähköpostiosoite ja nimi. Näytä varastollasi muutosten teko ja niiden katsominen lokista.
 - Teen ensimmäiseksi kansion komennolla
-  $ git init miksicat
+   $ git init miksicat
 Siirryn kansioon
-  $ cd miksicat/
+   $ cd miksicat/
 Teen markdown tiedoston README.md
-  ~/miksicat$ micro README.md
+   ~/miksicat$ micro README.md
 Tämän jälkeen suoritan komennot
-  ~/miksicat$ git add .
-  ~/miksicat$ git commit
+    ~/miksicat$ git add .
+    ~/miksicat$ git commit
   
 Ja saan tuloksen 
-  [master (root-commit) a533d65] Add README.md
- 1 file changed, 1 insertion(+)
- create mode 100644 README.md
+   [master (root-commit) a533d65] Add README.md
+     1 file changed, 1 insertion(+)
+    create mode 100644 README.md
  
  Lokien tarkistaminen
  
-  oliver@heroic:~/miksicat$ git log --patch
+   oliver@heroic:~/miksicat$ git log --patch
 commit a533d65a418ced581d7360c15854ad71ce3d0fc5 (HEAD -> master)
 Author: Oliver Santasalo <oliversantasalo@gmail.com>
 Date:   Fri Nov 11 16:14:05 2022 +0200

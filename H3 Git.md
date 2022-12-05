@@ -1,6 +1,6 @@
 # H3 Git
 ## a) MarkDown. Tee tämän tehtävän raportti MarkDownina. Helpointa on tehdä raportti GitHub-varastoon, jolloin md-päätteiset tiedostot muotoillaan automaattisesti. Tyhjä rivi tekee kappalejaon, risuaita ‘#’ tekee otsikon, sisennys merkitsee koodinpätkän.
-[![https://imgur.com/ZIYS0vS.png](https://imgur.com/ZIYS0vS.png)](https://imgur.com/ZIYS0vS.png)
+
 - Aloitin tehtävän tekemällä uuden varaston nimeltä "laksyt", johon tulen jatkossa lisäämään kurssin läksyt. Varastoon lisäsin uuden markdown tiedoston.
 
 ## b) Offline. Tee paikallinen offline-varasto git:llä. Varaston nimessä tulee olla sana "cat" (kissa). Aiemmin tehty varasto ei siis kelpaa. Aseta itsellesi sähköpostiosoite ja nimi. Näytä varastollasi muutosten teko ja niiden katsominen lokista.

@@ -1,10 +1,4 @@
 # a) Hei komento! Tee järjestelmään uusi "hei maailma" -komento ja asenna se orjille Saltilla. Liitä raporttiisi orjan 'ls -l /usr/local/bin/' tulosteesta   ainakin se rivi, jolla näkyy uuden komentotiedostosi oikeudet.
 
-- Aloitan tekemällä uuden kansion nimeltä "uusimaa", siirryn kansioon johon teen "eka.sh" bash tiedoston, mihin annan shebang ?koodin?
-
-  #!/usr/bin/bash
-
-  echo "hei maailma"
-  
-  
-/home/oliver/Pictures/asd.png
+- https://imgur.com/KeObMan.png 
+https://imgur.com/4iIuz6j.png

@@ -4,7 +4,7 @@
 
 # Karvinen 2017: Vagrant Revisited – Install & Boot New Virtual Machine in 31 seconds (Suosittelen käyttämään tässä koneena 'vagrant init debian/bullseye64')
 
-- Artikkeli käsittelee Vagrantin asennuksen ja käynnistämisen.
+ Artikkeli käsittelee Vagrantin asennuksen ja käynnistämisen.
 
     $ vagrant init bento/ubuntu-16.04 (debian/bullseye64, omassa käytössä)
     $ vagrant up
@@ -16,7 +16,7 @@
 
 # Karvinen 2018: Salt Quickstart – Salt Stack Master and Slave on Ubuntu Linux
 
-- Kuten artikkelin otsikossa mainitaan niin nopea aloitusopas Salt Masterin ja Slave:n pariin. Miten asentaa ja käyttäänottaa.
+ Kuten artikkelin otsikossa mainitaan niin nopea aloitusopas Salt Masterin ja Slave:n pariin. Miten asentaa ja käyttäänottaa.
 
     master$ sudo salt '*' cmd.run 'whoami'
     tero:

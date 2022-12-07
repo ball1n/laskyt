@@ -122,6 +122,16 @@ Homma toimii kuten pitää.
 
 # d) Oma suola. Tee ensimmäinen työversio projektistasi. Miniprojektilla tulee olla jokin tarkoitus, vaikka se olisi keksitty. Projektilla tulee olla sivu (esim. Github, Gitlab...), josta selviää projektin perustiedot. Toiminnallisuutta tulee olla kokeiltu, mutta sen ei tarvitse olla valmis. Valmiit projektit esitellään viimeisellä tapaamiskerralla. Tässä tehtävässä palautettava työversio ei siis ole vielä lopullinen.
 
-   
+   Aloitin vasta tämän idean alkuna
+
+https://github.com/ball1n/laskyt/blob/main/proggis.md
+
+
+# Lähteet:
+
+- https://terokarvinen.com/2022/palvelinten-hallinta-2022p2/
+- https://github.com/miljonka/Palvelinten-hallinta/blob/main/h6_Kulkurin%20projekti.md
+- https://terokarvinen.com/2018/salt-quickstart-salt-stack-master-and-slave-on-ubuntu-linux/
+- https://terokarvinen.com/2021/two-machine-virtual-network-with-debian-11-bullseye-and-vagrant/
 
 

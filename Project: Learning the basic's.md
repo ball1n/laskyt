@@ -19,13 +19,16 @@ I followed [this](https://www.how2shout.com/linux/3-ways-to-install-discord-on-d
 
 ![image](https://user-images.githubusercontent.com/117892213/207582915-32216953-1b41-42a7-9b33-55b8c1f8cfb6.png)
 
-As told in the quide, Discord can't be found from the default system repository of Debian and need's to be downloaded manually as Deb binary from the [official wesbite](https://discord.com/download). And with the next command on my terminal, you don't need to visit the Discord website.
+As told in the quide, Discord can't be found from the default system repository of Debian and need's to be downloaded manually as Deb binary from the [official wesbite](https://discord.com/download). For me the command did not work, so I downloaded it manually from the Discord website and then installed it. 
 
-Well, I could remove the text above but I'm going to leave it there as it did not work for me and after reading few other ways to install Discord, it looks like using Snap, is the most popular and easiest way of doing it. Snap is a packaging and deployment system software for OS that use Linux kernel.
-
-So [this](https://www.linuxcapable.com/how-to-install-discord-on-debian-11-bullseye/) is my quide to follow now.
-It start's the same as the first one, need to update&upgrade and then I can install Snap.
-
-![image](https://user-images.githubusercontent.com/117892213/207586666-bbef2120-2361-4fe7-89a3-9a2f9d3ea495.png)
+![image](https://user-images.githubusercontent.com/117892213/207590912-fdce5470-773b-4608-bec4-2cdcdb493d71.png)
 
 
+
+
+
+
+
+
+    
+    

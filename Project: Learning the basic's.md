@@ -81,7 +81,17 @@ This is how it looks like and after trying to run it on salt-call, it does not w
 
 ![image](https://user-images.githubusercontent.com/117892213/207612958-afe6cf6f-45fe-4be5-974a-ef1db194be33.png)
 
+Because I'm running late on time and this is the state of it now. 
 
+![image](https://user-images.githubusercontent.com/117892213/207651050-48ec2fb7-0cac-43bd-b786-a09dabfd70b8.png)
+
+![image](https://user-images.githubusercontent.com/117892213/207651171-d8aef3d8-40d8-4ed8-8778-0b4e8439864a.png)
+
+I will move forward and see if the Spotify installation will work in a minion.
+
+# Minion test
+
+Oliver@heroic hostname is 10.0.2.15
 
 
 

@@ -93,10 +93,24 @@ I will move forward and see if the Spotify installation will work in a minion.
 
 Oliver@heroic hostname is 10.0.2.15
 
+This did not go as planned, I made a new Debian into Virtualbox and it had same Hostname so I could not link Master as it has the same IP address.
+
+I'm running out of time....
 
 
 
 
+# Sources:
+
+- https://github.com/Justus-stack/h7_moduli/blob/main/report.md
+- https://jesperikuula.wordpress.com/palvelinten-hallinta-viikko-4/
+- https://terokarvinen.com/2022/palvelinten-hallinta-2022p2/
+- https://github.com/Jaketin/windowsgames/blob/master/windowsgames/init.sls
+- https://www.how2shout.com/linux/3-ways-to-install-discord-on-debian-11-bullseye-linux/
+- https://terokarvinen.com/2021/install-debian-on-virtualbox/
+- https://www.cyberciti.biz/faq/add-configure-set-up-static-ip-address-on-debianlinux/
+- https://discord.com/download
+- https://www.spotify.com/us/download/linux/
 
 
 
